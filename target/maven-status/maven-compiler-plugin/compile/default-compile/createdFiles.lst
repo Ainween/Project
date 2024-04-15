@@ -1,0 +1,12 @@
+controller/CtrlArchivioDiscente.class
+model/dao/AbstractService.class
+model/dao/DocenteService.class
+controller/CtrlMain.class
+model/dao/DiscenteDAO.class
+util/HibernateUtil.class
+model/dao/DiscenteService.class
+model/dao/AbstractDAO.class
+model/session/Docente.class
+model/session/Discente.class
+model/dao/DocenteDAO.class
+controller/CtrlArchivioDocente.class
